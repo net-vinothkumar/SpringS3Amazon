@@ -6,6 +6,11 @@ In the tutorial, we will setup an Amazon S3 bucket, IAM Role, then use SpringBoo
 Using this Spring Boot Application we can Upload/Download files to Amazon S3.
 Amazon Simple Storage Service (Amazon S3) is object storage built to store and retrieve any amount of data from web or mobile. Amazon S3 is designed to scale computing easier for developers. For starting, in the tutorial, InterviewDOT shows you how to create a SpringBoot Amazon S3 application.
 
+# Spring Boot - AWS S3 - Design :
+
+<img width="1277" alt="Screen Shot 2019-03-23 at 10 16 21" src="https://user-images.githubusercontent.com/30971809/54864520-cd663880-4d58-11e9-8235-d14cd67db50b.png">
+
+
 # Technologies
 - Java 8
 - Maven 3.6.1
