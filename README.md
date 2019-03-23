@@ -59,9 +59,9 @@ In the tutorial, we will setup an Amazon S3 bucket, an IAM user and create a Spr
 
 # Step to do:
 # Setup Amazon S3
-– Sign Up
-– Create a AWS S3 Bucket
-– Create an IAM user
+- Sign Up
+- Create a AWS S3 Bucket
+- Create an IAM User
 
 # SpringBoot Amazon S3 application
 – Create SpringBoot project
