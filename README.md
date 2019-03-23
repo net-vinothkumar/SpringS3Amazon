@@ -66,10 +66,7 @@ In the tutorial, we will setup an Amazon S3 bucket, an IAM user and create a Spr
 – Run and check results
 
 # Open application.properties, add aws configuration:
-
-aws.access_key_id=AKIAIP6OYZ7NICKOQSLQ
-aws.secret_access_key=***(replace with your key)
-
+```
 aws.access_key_id=AKIAIP6OYZ7NICKOQSLQ
 aws.secret_access_key=***(replace with your key)
 s3.bucket=jsa-s3-bucket
@@ -84,4 +81,4 @@ s3.region=us-east-1
  
 s3.uploadfile=springboot-s3-upload-file.txt
 s3.key=springboot-s3-upload-file.txt
-
+```
