@@ -67,8 +67,8 @@ In the tutorial, we will setup an Amazon S3 bucket, an IAM user and create a Spr
 
 # Open application.properties, add aws configuration:
 ```
-aws.access_key_id=AKIAJQKAB4MLLIMXNILA
-aws.secret_access_key=fazZkBMl9wgdR3aF478yzQHiIamAt/C52kyB4Rdy
+aws.access_key_id=<REPLACE THE KEY>
+aws.secret_access_key=<REPLACE THE SECRET>
 s3.bucket=testvinoth
 s3.region=us-east-2
 
