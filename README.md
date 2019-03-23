@@ -45,6 +45,40 @@ public PutObjectResult putObject(PutObjectRequest putObjectRequest)
             throws SdkClientException, AmazonServiceException;
 
 public S3Object getObject(GetObjectRequest getObjectRequest)
-            throws SdkClientException, AmazonServiceException;```
+            throws SdkClientException, AmazonServiceException;
+```
 
+# Demo
+
+In the tutorial, we will setup an Amazon S3 bucket, an IAM user and create a SpringBoot application to upload/download files to/from S3.
+
+# Step to do:
+# Setup Amazon S3
+– Sign Up
+– Create a AWS S3 Bucket
+– Create an IAM user
+
+# SpringBoot Amazon S3 application
+– Create SpringBoot project
+– Set Amazon S3 client
+– Implement S3 download/upload services
+– Implement simple client
+– Run and check results
+
+# Open application.properties, add aws configuration:
+
+aws.access_key_id=AKIAIP6OYZ7NICKOQSLQ
+aws.secret_access_key=***(replace with your key)
+s3.bucket=jsa-s3-bucket
+s3.region=us-east-1
+
+s3.uploadfile=C:\\s3\\jsa-s3-upload-file.txt
+s3.key=jsa-s3-upload-file.txt
+aws.access_key_id=AKIAIP6OYZ7NICKOQSLQ
+aws.secret_access_key=***(change the key)
+s3.bucket=jsa-s3-bucket
+s3.region=us-east-1
+ 
+s3.uploadfile=springboot-s3-upload-file.txt
+s3.key=springboot-s3-upload-file.txt
 
