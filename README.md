@@ -9,8 +9,7 @@ Amazon Simple Storage Service (Amazon S3) is object storage built to store and r
 # Technologies
 - Java 8
 - Maven 3.6.1
-– Java 8
-– Maven 3.6.1
-– Spring Tool Suite: Version 3.8.4.RELEASE
-– Spring Boot: 1.5.4.RELEASE
-– Amazon S3
+- Spring Boot: 1.5.4.RELEASE
+- Amazon S3
+- Amazon IAM Role
+
