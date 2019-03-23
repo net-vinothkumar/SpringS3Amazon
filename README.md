@@ -7,6 +7,8 @@ Using the Spring Boot Application Upload/Download files to Amazon S3.
 Amazon Simple Storage Service (Amazon S3) is object storage built to store and retrieve any amount of data from web or mobile. Amazon S3 is designed to scale computing easier for developers. For starting, in the tutorial, InterviewDOT shows you how to create a SpringBoot Amazon S3 application.
 
 # Technologies
+- Java 8
+- Maven 3.6.1
 – Java 8
 – Maven 3.6.1
 – Spring Tool Suite: Version 3.8.4.RELEASE
