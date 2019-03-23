@@ -45,7 +45,6 @@ public PutObjectResult putObject(PutObjectRequest putObjectRequest)
             throws SdkClientException, AmazonServiceException;
 
 public S3Object getObject(GetObjectRequest getObjectRequest)
-            throws SdkClientException, AmazonServiceException;
-            ```
+            throws SdkClientException, AmazonServiceException;```
 
 
