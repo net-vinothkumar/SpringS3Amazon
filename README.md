@@ -69,7 +69,7 @@ In the tutorial, we will setup an Amazon S3 bucket, an IAM user and create a Spr
 ```
 aws.access_key_id=<REPLACE THE KEY>
 aws.secret_access_key=<REPLACE THE SECRET>
-s3.bucket=testvinoth
+s3.bucket=testawss3bucket
 s3.region=us-east-2
 
 s3.uploadfile=springboot-s3-upload-file.txt
